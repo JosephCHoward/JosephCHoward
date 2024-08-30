@@ -1,14 +1,11 @@
 # Hello, I'm Joseph
 <a href="https://www.linkedin.com/in/joseph-howard-phd-09803a278/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+After an extensive career in education, I am transitioning to the vast and fascinating field of cybersecurity. The past year (plus) has been an intense immersion into various aspects of the field, and I'm only just beginning!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am interested in several areas of cybersecurity such as a SOC cyber analyst, cloud security professional, threat intelligence, and auditing. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
