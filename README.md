@@ -52,6 +52,7 @@ I am interested in several areas of cybersecurity such as a SOC cyber analyst, c
 <img src="https://img.shields.io/badge/-CySA%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kano%20Cyber%20Analyst%20Certificate-6A1B9A?&style=for-the-badge&logo=cybersecurity&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20AZ--900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
