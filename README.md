@@ -5,11 +5,11 @@
 </a>
 
 
-After an extensive career in education, I am transitioning to the vast and fascinating field of cybersecurity. The past year (plus) has been an intense immersion into various aspects of the field, and I'm only just beginning!
+After a successful career in higher education, I am transitioning to the field of cybersecurity. For the past 18+ months, I have been deeply focused on developing the skills, tools, and knowledge essential for cyber analysis. Through a combination of hands-on projects, certifications, real-world simulations, and formal education, I have honed my ability to detect, analyze, and respond to cyber threats.
 
 ## Objective
 
-I am interested in several areas of cybersecurity such as a SOC cyber analyst, cloud security professional, threat intelligence, and auditing. 
+After an extensive period of preparation, I am currently aiming to contribute as a SOC/cyber analyst to help organizations strengthen their security posture and proactively defend against evolving cyber threats.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
