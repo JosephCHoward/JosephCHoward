@@ -9,7 +9,7 @@ After a successful career in higher education, I am transitioning to the field o
 
 ## Objective
 
-After an extensive period of preparation, I am currently aiming to contribute as a SOC/cyber analyst to help organizations strengthen their security posture and proactively defend against evolving cyber threats.
+I am currently aiming to contribute as a SOC/cyber analyst to help organizations strengthen their security posture and proactively defend against evolving cyber threats.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
