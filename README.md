@@ -1,5 +1,5 @@
 # Hello, I'm Joseph
-<a href="https://www.linkedin.com/in/joseph-howard-phd-09803a278/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/josephchoward/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 After an extensive career in education, I am transitioning to the vast and fascinating field of cybersecurity. The past year (plus) has been an intense immersion into various aspects of the field, and I'm only just beginning!
 
