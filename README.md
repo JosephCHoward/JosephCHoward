@@ -5,7 +5,7 @@
 </a>
 
 
-After a successful career in higher education, I am transitioning to the field of cybersecurity. For the past 18+ months, I have been deeply focused on developing the skills, tools, and knowledge essential for cyber analysis. Through a combination of hands-on projects, certifications, real-world simulations, and formal education, I have honed my ability to detect, analyze, and respond to cyber threats.
+After a successful career in higher education, I am transitioning to the field of cybersecurity. For the past 18+ months, I have been deeply focused on developing the skills, tools, and knowledge essential for cyber analysis. Through a combination of hands-on projects, real-world simulations, certifications, and formal education, I have honed my ability to detect, analyze, and respond to cyber threats.
 
 ## Objective
 
@@ -47,7 +47,6 @@ After an extensive period of preparation, I am currently aiming to contribute as
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
