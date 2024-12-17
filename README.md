@@ -7,11 +7,11 @@
 
 After a successful career in higher education, I am transitioning to the field of cybersecurity. For the past 18+ months, I have been deeply focused on gaining the skills, tools, and knowledge essential for cyber analysis. Through a combination of hands-on projects, real-world simulations, certifications, and formal education, I have honed my ability to detect, analyze, and respond to cyber threats.
 
-## Objective
+# Objective
 
 I am currently aiming to contribute as a SOC/cyber analyst to help organizations strengthen their security posture and proactively defend against evolving cyber threats.
 
-## Skills
+# Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -23,8 +23,8 @@ I am currently aiming to contribute as a SOC/cyber analyst to help organizations
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+# Tools
+I have used all of the following tools and have varying degrees of familiarity and/or proficiency with them.
 
 ### Network
 <div>
@@ -46,7 +46,7 @@ I am currently aiming to contribute as a SOC/cyber analyst to help organizations
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+# Certifications
 <div>
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -56,6 +56,8 @@ I am currently aiming to contribute as a SOC/cyber analyst to help organizations
 <img src="https://img.shields.io/badge/-Microsoft%20AZ--900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-## Projects
+# Projects
 - Detection Lab
 - SOC Automation Project
+- Malware Analysis
+- Python Script for IP Reputation Check
