@@ -11,17 +11,26 @@ After a successful career in higher education, I am transitioning to the field o
 
 I am currently aiming to contribute as a SOC/cyber analyst to help organizations strengthen their security posture and proactively defend against evolving cyber threats.
 
-# Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+# Skills and Projects
+Below is a sample of projects selected to illustrate skills and experience gained.
+## Network Traffic Analysis and Attack Detection
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## SIEM Implementation and Log Analysis
+
+
+## Python Scripting
+<a href="https://github.com/JosephCHoward/Python-IP-Check-Script">Python Script for IP Reputation Check</a>
+
+## Malware Analysis
+<a href="https://github.com/JosephCHoward/Malware-Capstone">Malware Analysis Capstone Project</a>
+
+<a href="https://github.com/JosephCHoward/Malware-Analysis-1">Malware Analysis 1</a>
+
+<a href="https://github.com/JosephCHoward/Malware-Analysis-2">Malware Analysis 2</a>
+
+<a href="https://github.com/JosephCHoward/Malware-Analysis-3">Malware Analysis 3</a>
+
+<a href="https://github.com/JosephCHoward/Malware-Analysis-4">Malware Analysis 4</a>
 
 # Tools
 I have used all of the following tools and have varying degrees of familiarity and/or proficiency with them.
@@ -29,14 +38,8 @@ I have used all of the following tools and have varying degrees of familiarity a
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -44,6 +47,12 @@ I have used all of the following tools and have varying degrees of familiarity a
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 # Certifications
@@ -56,8 +65,3 @@ I have used all of the following tools and have varying degrees of familiarity a
 <img src="https://img.shields.io/badge/-Microsoft%20AZ--900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-# Projects
-- Detection Lab
-- SOC Automation Project
-- Malware Analysis
-- Python Script for IP Reputation Check
