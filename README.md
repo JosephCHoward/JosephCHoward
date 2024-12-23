@@ -12,7 +12,7 @@ After a successful career in higher education, I am transitioning to the field o
 I am currently aiming to contribute as a SOC/cyber analyst to help organizations strengthen their security posture and proactively defend against evolving cyber threats.
 
 # Skills and Projects
-Below is a sample of projects selected to illustrate skills and experience gained.
+Below is a sample of projects selected to illustrate skills and pracitcal experience.
 ## Network Traffic Analysis and Attack Detection
 
 ## SIEM Implementation and Log Analysis
