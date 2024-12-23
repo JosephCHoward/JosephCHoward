@@ -18,19 +18,24 @@ Below is a sample of projects selected to illustrate skills and pracitcal experi
 ## SIEM Implementation and Log Analysis
 
 
+
 ## Python Scripting
-<a href="https://github.com/JosephCHoward/Python-IP-Check-Script">Python Script for IP Reputation Check</a>
+<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/python_logo.svg" alt="python logo" width="20"/> [Python Script for IP Reputation Check](https://github.com/JosephCHoward/Python-IP-Check-Script)
+
 
 ## Malware Analysis
-<a href="https://github.com/JosephCHoward/Malware-Capstone">Malware Analysis Capstone Project</a>
+<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis Capstone Project](https://github.com/JosephCHoward/Malware-Capstone)  
 
-<a href="https://github.com/JosephCHoward/Malware-Analysis-1">Malware Analysis 1</a>
+<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 1](https://github.com/JosephCHoward/Malware-Analysis-1)  
 
-<a href="https://github.com/JosephCHoward/Malware-Analysis-2">Malware Analysis 2</a>
+<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 2](https://github.com/JosephCHoward/Malware-Analysis-2) 
 
-<a href="https://github.com/JosephCHoward/Malware-Analysis-3">Malware Analysis 3</a>
+<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 3](https://github.com/JosephCHoward/Malware-Analysis-3) 
 
-<a href="https://github.com/JosephCHoward/Malware-Analysis-4">Malware Analysis 4</a>
+<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 4](https://github.com/JosephCHoward/Malware-Analysis-4)
+
+
+
 
 # Tools
 I have used all of the following tools and have varying degrees of familiarity and/or proficiency with them.
