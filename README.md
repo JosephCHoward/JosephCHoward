@@ -20,7 +20,7 @@ Below is a sample of projects selected to illustrate skills and pracitcal experi
 &nbsp;&nbsp;&nbsp;&nbsp;Projects in Progress
 
 ### Vulnerability Mitigation & Configuration Hardening
-&nbsp;&nbsp;&nbsp;&nbsp;Vulnerability Mitigation with Nessus & Windows Firewall
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/nessus.png" alt="nessus icon" width="20"/> <a href="https://github.com/JosephCHoward/Vulnerability-Mitigation">Vulnerability Mitigation with Nessus & Windows Firewall</a>
 
 ### Python Scripting
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/python_logo.svg" alt="python logo" width="20"/> [Python Script for IP Reputation Check](https://github.com/JosephCHoward/Python-IP-Check-Script)
