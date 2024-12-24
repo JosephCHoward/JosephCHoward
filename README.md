@@ -13,29 +13,25 @@ I am currently aiming to contribute as a SOC/cyber analyst to help organizations
 
 # Skills and Projects
 Below is a sample of projects selected to illustrate skills and pracitcal experience.
-## Network Traffic Analysis and Attack Detection
+### Network Traffic Analysis and Attack Detection
+&nbsp;&nbsp;&nbsp;&nbsp;Projects in Progress
 
-## SIEM Implementation and Log Analysis
+### SIEM Implementation and Log Analysis
+&nbsp;&nbsp;&nbsp;&nbsp;Projects in Progress
 
+### Python Scripting
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/python_logo.svg" alt="python logo" width="20"/> [Python Script for IP Reputation Check](https://github.com/JosephCHoward/Python-IP-Check-Script)
 
+### Malware Analysis
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis Capstone Project](https://github.com/JosephCHoward/Malware-Capstone)  
 
-## Python Scripting
-<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/python_logo.svg" alt="python logo" width="20"/> [Python Script for IP Reputation Check](https://github.com/JosephCHoward/Python-IP-Check-Script)
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 1](https://github.com/JosephCHoward/Malware-Analysis-1)  
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 2](https://github.com/JosephCHoward/Malware-Analysis-2)  
 
-## Malware Analysis
-<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis Capstone Project](https://github.com/JosephCHoward/Malware-Capstone)  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 3](https://github.com/JosephCHoward/Malware-Analysis-3)  
 
-<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 1](https://github.com/JosephCHoward/Malware-Analysis-1)  
-
-<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 2](https://github.com/JosephCHoward/Malware-Analysis-2) 
-
-<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 3](https://github.com/JosephCHoward/Malware-Analysis-3) 
-
-<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 4](https://github.com/JosephCHoward/Malware-Analysis-4)
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 4](https://github.com/JosephCHoward/Malware-Analysis-4)
 
 # Tools
 I have used all of the following tools and have varying degrees of familiarity and/or proficiency with them.
