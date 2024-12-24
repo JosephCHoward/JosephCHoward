@@ -19,6 +19,9 @@ Below is a sample of projects selected to illustrate skills and pracitcal experi
 ### SIEM Implementation and Log Analysis
 &nbsp;&nbsp;&nbsp;&nbsp;Projects in Progress
 
+### Vulnerability Mitigation & Configuration Hardening
+&nbsp;&nbsp;&nbsp;&nbsp;Vulnerability Mitigation with Nessus & Windows Firewall
+
 ### Python Scripting
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/python_logo.svg" alt="python logo" width="20"/> [Python Script for IP Reputation Check](https://github.com/JosephCHoward/Python-IP-Check-Script)
 
