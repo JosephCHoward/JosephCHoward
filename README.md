@@ -44,6 +44,7 @@ I have used all of the following tools and have varying degrees of familiarity a
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-0096D6?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 ### SIEM
