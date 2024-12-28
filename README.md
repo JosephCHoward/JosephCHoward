@@ -36,30 +36,6 @@ Below is a sample of projects selected to illustrate skills and pracitcal experi
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/malware_bug.jpg" alt="malware icon" width="20"/> [Malware Analysis 4](https://github.com/JosephCHoward/Malware-Analysis-4)
 
-# Tools
-I have used all of the following tools and have varying degrees of familiarity and/or proficiency with them.
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=tcpdump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-0096D6?&style=for-the-badge&logo=Tenable&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
 # Certifications
 <div>
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
