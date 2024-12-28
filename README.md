@@ -5,7 +5,7 @@
 </a>
 
 
-After a successful career in higher education, I am transitioning to the field of cybersecurity. For the past 18+ months, I have been deeply engaged in gaining the skills, tools, and knowledge essential for cyber analysis. Through a combination of hands-on projects, real-world simulations, certifications, and formal education, I have honed my ability to detect, analyze, and respond to cyber threats.
+After a successful career in higher education, I am transitioning to the field of cybersecurity. For the past 18+ months, I have been deeply engaged in gaining the skills, tools, and knowledge essential for cyber analysis. Through a combination of hands-on projects, real-world simulations, certifications, and formal education, I have developed my ability to detect, analyze, and respond to cyber threats.
 
 # Objective
 
