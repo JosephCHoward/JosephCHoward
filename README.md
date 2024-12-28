@@ -16,9 +16,8 @@ Below is a sample of projects selected to illustrate skills and pracitcal experi
 ### Network Traffic Analysis and Attack Detection
 &nbsp;&nbsp;&nbsp;&nbsp;Projects in Progress
 
-### SIEM Implementation and Log Analysis
-&nbsp;&nbsp;&nbsp;&nbsp;Projects in Progress
-https://github.com/JosephCHoward/Splunk-Active-Directory/blob/main/README.md
+### SIEM Related Projects
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/splunk.png" alt="splunk icon" width="20"/> <a href="https://github.com/JosephCHoward/Splunk-Active-Directory">Splunk, Active Directory & Atomic Red Team Lab</a>
 
 ### Vulnerability Mitigation & Configuration Hardening
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/nessus.png" alt="nessus icon" width="20"/> <a href="https://github.com/JosephCHoward/Vulnerability-Mitigation">Vulnerability Mitigation with Nessus & Windows Firewall</a>
