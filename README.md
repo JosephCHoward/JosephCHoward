@@ -13,8 +13,6 @@ I am currently aiming to contribute as a SOC/cyber analyst to help organizations
 
 # Skills and Projects
 Below is a sample of projects selected to illustrate skills and pracitcal experience.
-### Network Traffic Analysis and Attack Detection
-&nbsp;&nbsp;&nbsp;&nbsp;Projects in Progress
 
 ### SIEM Related Projects
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/splunk.png" alt="splunk icon" width="20"/> <a href="https://github.com/JosephCHoward/Splunk-Active-Directory">Splunk, Active Directory & Atomic Red Team Lab</a>
