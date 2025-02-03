@@ -17,6 +17,8 @@ Below is a sample of projects selected to illustrate skills and pracitcal experi
 ### SIEM Related Projects
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/splunk.png" alt="splunk icon" width="20"/> <a href="https://github.com/JosephCHoward/Splunk-Active-Directory">Splunk, Active Directory & Atomic Red Team Lab</a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/wazuh_icon.jpg" alt="wazuh icon" width="20"/> <a href="https://github.com/JosephCHoward/attack-and-detect-with-wazuh/tree/main"> Attack and Detect with Wazuh</a>
+
 ### Vulnerability Mitigation & Configuration Hardening
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JosephCHoward/assets/main/icons/nessus.png" alt="nessus icon" width="20"/> <a href="https://github.com/JosephCHoward/Vulnerability-Mitigation">Vulnerability Mitigation with Nessus & Windows Firewall</a>
 
